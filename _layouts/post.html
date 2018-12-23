@@ -27,6 +27,7 @@ layout: default
   </div>
   
   {%- if page.comments -%}
+  	Yes, there are some page comments.
     {% for comm in page.comments %}
         <div>
             {{ comm.author }} said on {{ comm.date}}: 
@@ -36,6 +37,7 @@ layout: default
   {%- endif -%}
 
   {% if site.disqus.shortname %}
+  	My disqus has a short name and it's: {{ site.disqus.shortname }}
     {% include disqus_comments.html %}
   {% endif %}
 
