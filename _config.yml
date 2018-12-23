@@ -24,7 +24,7 @@ twitter_username: cliff1976
 
 # new from cliff
 disqus:
-    shortname: bergburg
+    shortname: # bergburg
 
 # Build settings
 markdown: kramdown
