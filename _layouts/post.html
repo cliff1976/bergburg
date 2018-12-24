@@ -27,7 +27,9 @@ layout: default
   </div>
   
   {%- if page.comments -%}
-  	Yes, comments are allowed and maybe there are even some old migrated comments. 
+  	<!--
+	   	Yes, comments are allowed and maybe there are even some old migrated comments. 
+	-->
     {% for comm in page.comments %}
         <div>
             {{ comm.author }} said on {{ comm.date}}: 
