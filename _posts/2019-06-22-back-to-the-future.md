@@ -5,8 +5,6 @@ date:   2019-06-22
 categories: vocabulary
 ---
 
-Back to the future?
-
 When you need to postpone an appointment, in German that's a <span class="german">Verschiebung.</span>  Most frequently, at least where I work, <span class="german">Termine werden nach hinten verschoben,</span>  i.e. rescheduled to a point in the future.
 
 <span class="german">Nach hinten?  Wirklich?</span>
