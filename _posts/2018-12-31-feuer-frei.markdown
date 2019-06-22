@@ -3,6 +3,7 @@ layout: post
 title:  "Feuer Frei"
 date:   2018-12-31 11:57:34 +0100
 categories: vocabulary
+comments: true
 ---
 Freedom is a complex topic.  German complicates matters with the word <span class="german">frei</span> and derivatives.
 
